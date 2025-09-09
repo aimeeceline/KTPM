@@ -1,1 +1,17 @@
-3 3 3
+2 3 8
+%%writefile baie_t2.inp
+3 3 0
+%%writefile baie_t3.inp
+3 3 0
+%%writefile baie_t4.inp
+3 3 0
+%%writefile baie_t5.inp
+3 3 0
+%%writefile baie_t6.inp
+3 3 0
+%%writefile baie_t7.inp
+3 3 0
+%%writefile baie_t8.inp
+3 3 0
+%%writefile baie_t9.inp
+3 3 0
