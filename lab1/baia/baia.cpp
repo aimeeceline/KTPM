@@ -8,8 +8,9 @@ using namespace std;
     }
 int main()
 {
-    int x;
-    cin >> x;
-    cout << f1(x) << endl;
+    int x,e;
+    cin >> x >>e;
+    cout <<"Expect:"<<e<<endl;
+    cout <<"f1:"<< f1(x) << endl<< endl;
     return 0;
 }

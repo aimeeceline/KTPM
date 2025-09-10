@@ -17,9 +17,9 @@ int findMax(int num1, int num2, int num3) {
 
 int main()
 {
-    int a, b, c;
-    cout<<"enter abc";
-    cin >> a >> b >> c;
-    cout << findMax(a, b, c) << endl;
+    int a, b, c, d;
+    cin >> a >> b >> c >> d;
+    cout<<"Expect:"<<d;
+    cout << "\nMax:"<< findMax(a, b, c) << endl <<endl;
     return 0;
 }
